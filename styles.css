@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap");
 
 * {
   margin: 0;
@@ -8,23 +8,21 @@
 
 :root {
   --background: #fafafa;
-  --red: #ea5454;
-  --sky: #44d3d2;
   --text: #4d4f62;
 }
 
 body {
   width: 100vw;
   min-height: 100vh;
-  text-align: center;
   padding: 85px 32px 78px 32px;
   background-color: var(--background);
   font-family: "Poppins", sans-serif;
+  text-align: center;
 }
 
 .description {
-  font-weight: 275;
   font-size: 24px;
+  font-weight: 275;
   line-height: 36px;
   letter-spacing: 0.17px;
   color: var(--text);
