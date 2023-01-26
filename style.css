@@ -13,10 +13,10 @@
 
 body {
   width: 100vw;
-  min-height: 100vh;
-  padding: 85px 32px 78px 32px;
+  height: 100vh;
   background-color: var(--background);
   font-family: "Poppins", sans-serif;
+  padding: 85px 32px 78px 32px;
   text-align: center;
 }
 
